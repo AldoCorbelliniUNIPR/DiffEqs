@@ -1,4 +1,4 @@
-%%%%%%%%%%%%%  least squares
+%%  least squares
 function out=atkidiffeqlsres
 % 4 thetas
 
